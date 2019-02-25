@@ -1,4 +1,10 @@
 {
+  "name": "wp-tested-up-to",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/timelsass/wp-tested-up-to",
+  "author": "Tim <dev@tim.ph>",
+  "license": "MIT",
   "dependencies": {
     "got": "^9.6.0",
     "pkg-dir": "^3.0.0",
