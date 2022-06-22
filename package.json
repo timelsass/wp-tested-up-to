@@ -6,7 +6,7 @@
   "author": "Tim <dev@tim.ph>",
   "license": "MIT",
   "dependencies": {
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "pkg-dir": "^3.0.0",
     "semver": "^5.6.0",
     "wp-header-search": "^1.0.0",
